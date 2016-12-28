@@ -12,7 +12,7 @@ url: "https://sjsupersumit.github.io"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
 
-baseurl: sjsupersumit.github.io
+baseurl: ""
 
 # Google tracking id
 
@@ -136,7 +136,7 @@ email: "sjsupersumit@gmail.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "sumit is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
+author_blurb: "sumit is an awesome person. He lives in Flatland, where he constantly wonders about the life universe and everything"
 author_blurb_image: "/img/author.png"
 
 ##################
@@ -180,7 +180,6 @@ pages_list:
   Blog: 'latest-post'
   Timeline: 'timeline'
   Contact: 'contact'
-  Resume: 'resume'
 # Exclusion list from the generated _site
 
 exclude: ["LICENSE", "README.md", "CONTRIBUTING", "CONTRIBUTORS", "scripts"]
