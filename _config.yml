@@ -52,7 +52,7 @@ shuffle: True # Shuffle the lines.
 loop: True
 loop-count: False # Set False for infinite loop, or set any number for finite loop.
 type-speed: 10
-start-delay: 200
+start-delay: 100
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "The lower you fall, the higher you'll fly."
@@ -115,8 +115,8 @@ events:
     date: "September 2013 - Today"
     description: "Saving the neighborhood!"
   - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
+    date: "August 2009 - July 2013"
+    description: "Started Engineering"
 
 # First image of the Timeline
 
